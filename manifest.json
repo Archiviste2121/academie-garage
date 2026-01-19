@@ -1,0 +1,23 @@
+
+{
+  "name": "Académie du Garage",
+  "short_name": "Académie",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fcfcfd",
+  "theme_color": "#002147",
+  "orientation": "any",
+  "description": "Assistant académique en sciences politiques avec IA.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2490/2490636.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2490/2490636.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
