@@ -1,7 +1,0 @@
-{
-  "name": "Copy of Académie du Garage",
-  "description": "Une plateforme d'étude avancée pour les étudiants en sciences politiques, intégrant l'analyse de théories, la structuration de dissertations et l'analyse d'actualités via l'IA.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
